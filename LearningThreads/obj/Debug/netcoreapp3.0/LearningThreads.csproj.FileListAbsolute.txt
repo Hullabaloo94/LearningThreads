@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.exe
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.deps.json
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.dll
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\bin\Debug\netcoreapp3.0\LearningThreads.pdb
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\obj\Debug\netcoreapp3.0\LearningThreads.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\obj\Debug\netcoreapp3.0\LearningThreads.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\obj\Debug\netcoreapp3.0\LearningThreads.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\obj\Debug\netcoreapp3.0\LearningThreads.dll
+C:\Users\Jason\source\repos\LearningThreads\LearningThreads\obj\Debug\netcoreapp3.0\LearningThreads.pdb
